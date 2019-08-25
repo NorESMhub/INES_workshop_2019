@@ -3,13 +3,22 @@ title: "Contribute to NorESM code"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "How can we update NorESM source code?"
+- "When should we contribute to CESM or cime?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Understand how to test source code changes"
+- "Understand the workflow for contributing to NorESM"
+- "Understand is it is a NorESM contribution or CESM or cime"
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "workflow for testing source code changes"
+- "take part to the NorESM and CESM community"
 ---
-FIXME
+
+# Source changes
+
+## Testing/running norESM simulations with code changes
+
+## Contributing to norESM source code development
 
 {% include links.md %}
 
