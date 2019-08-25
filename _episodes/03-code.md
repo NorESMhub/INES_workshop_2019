@@ -16,6 +16,12 @@ keypoints:
 
 # Source changes
 
+NorESM source is not publicly available and it stored in a private repository hosted by MetNo.
+
+It is not a community code and developers are most likely not interested by your changes. However, if you plan to publish results from your updated NorESM, you may be required to be able to provide the source code you used. It is therefore important to keep all your changes and be able to make them easily accessible.
+
+In this episode, we show you how this can be done.
+
 ## Testing/running norESM simulations with code changes
 
 ## Contributing to norESM source code development
