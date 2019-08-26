@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-teaching: 0
+teaching: 10
 exercises: 0
 questions:
 - "What do we need to be able to contribute?"

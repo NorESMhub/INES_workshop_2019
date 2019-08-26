@@ -1,7 +1,7 @@
 ---
 title: "Contribute to NorESM documentation"
-teaching: 0
-exercises: 0
+teaching: 20
+exercises: 20
 questions:
 - "Where can we find NorESM documentation?"
 - "How can we update NorESM documentation?"

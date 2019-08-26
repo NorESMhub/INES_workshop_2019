@@ -1,6 +1,6 @@
 ---
 title: "Contribute to NorESM code"
-teaching: 0
+teaching: 10
 exercises: 0
 questions:
 - "How can we update NorESM source code?"
